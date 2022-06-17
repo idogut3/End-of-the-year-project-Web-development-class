@@ -1,0 +1,3 @@
+*.js linguist-detectable=true
+*.html linguist-detectable=true
+*.ASP.NET linguist-detectable=true
