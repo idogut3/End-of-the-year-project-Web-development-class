@@ -1,4 +1,9 @@
 # Web-dev--Useful-Website
 This website, "Useful - Website" is a project I have been working on for an entire year in school. It is the final's year project in my web development class of my school and it is worth 30% of my grade in the "Bagrot" of computer science in israel - 1 unit for the "Bagrot".
-I also added my project documentation I submitted to my school, for anyone to look at it. It contains pictures of my website, explanations and code references, it might not be up to date but it contains most of my work. For reading my code I recommend just reading the git files (Web forms and more...). The documentation I submitted to my school is under the name of "This is the project document I submitted to school, If anyone wants to look at it. Keep in mind, it is written in Hebrew.".
+
+The purpose of the website is to create a study environment for people who like to learn. This website allows people to learn while listening to great music playlists from different genres, take breaks every pre-set time by the user and just have an organized study environment for everyone's needs. I had a blast time making it and experimenting with new languages I hadn't knew before. So I hope you would like it :)
+
+I learnt and used five different languages to make this website. HTML, CSS, JavaScript, C# and SQL.
+
+I also added my project documentation I submitted to my school, for anyone to look at it. It contains pictures of my website, explanations and code references, it might not be up to date but it contains most of my work. For reading my code I recommend just reading the git files (Web forms and more...). The documentation I submitted to my school is under the name of "School end of the year project, contains: code documentation, explanations and more!".
 
