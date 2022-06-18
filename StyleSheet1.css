@@ -1,0 +1,105 @@
+﻿html {
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    color: white;
+}
+
+
+
+
+.menu {
+    text-align: center;
+    border: dashed;
+    color: white;
+    width:180px;
+    height:65px;
+    font: bold;
+    background-color:mediumspringgreen;
+    background-size: 100px;
+    background-attachment: fixed;
+    border: solid;
+    border-color:red;
+}
+   
+    .menu:hover{
+ animation: menuAnimations;
+        animation-duration: 14s;
+        animation-iteration-count: infinite;
+
+    }
+     
+    .tdStandards {
+        width: 33.3%;
+        text-align: center;
+        border: solid;
+        border-color: deepskyblue;
+    }
+
+
+table,div,  td {
+    text-align: center;
+    border-width: 10px;
+    border: solid;
+    border-color: darkviolet;
+    border-radius: 10px;
+}
+
+@keyframes menuAnimations {
+    5%{background-color :aquamarine;}
+     15%{background-color : darkorchid;}
+     25%{background-color:red}
+      35%{background-color : darkturquoise} 
+      45%{background-color:hotpink}
+      55%{background-color:blueviolet} 
+        65%{background-color:lightgreen}
+        75%{background-color:deeppink}
+         85%{background-color:greenyellow}
+          95%{background-color:deepskyblue}
+}
+
+
+
+
+
+
+
+
+img {
+    width: 80%;
+    height: 90%;
+    border:solid;
+    border-radius: 10px;
+    border-width: 5px;
+    border-color: deeppink;
+}
+
+
+
+.inputT {
+     background:linear-gradient(grey,black);
+     color:mediumspringgreen;
+     text-align:center;
+}
+
+
+
+.admin_table {
+    background-repeat: repeat;
+    background-attachment: fixed;
+    border: solid;
+    width: 100%;
+    background: linear-gradient(mediumpurple,  mediumorchid, darkorchid);
+}
+a {
+    color: mediumorchid;
+}
+    a:active {
+        color: darkorchid;
+    }
+.author {
+    font-size: 25px;
+    background: -webkit-linear-gradient(aquamarine,#ff1aff, #4dff4d);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
