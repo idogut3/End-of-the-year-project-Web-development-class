@@ -8,8 +8,6 @@ I learnt and used five different languages to make this website. HTML, CSS, Java
 I also added my project documentation that I submitted to my school for anyone to look at it. It contains pictures of my website, explanations and code references, it might not be up to date but it contains most of my work.
 For reading my code I recommend just reading the git files (The webForms: HomePage.aspx , MusicForLearning.aspx ,TakeABreak.aspx and their Back-Ends: HomePage.aspx.cs , MusicForLearning.aspx.cs ,TakeABreak.aspx.cs and more...).
 
-The documentation I submitted to my school is under the name of "School end of the year project, contains: code documentation, explanations and more!", Keep in mind it is written in Hebrew but you could definitely just look at the pictures of the website and translate it with any software.
-
 # Find a more in depth dive into the project here:
 [The written assignment of the project (in hebrew)](https://drive.google.com/file/d/1EOxwDq07qcK_fpThR1vr7aLvak-KpHKE/view?usp=sharing)
 
