@@ -11,5 +11,5 @@ For reading my code I recommend just reading the git files (The webForms: HomePa
 The documentation I submitted to my school is under the name of "School end of the year project, contains: code documentation, explanations and more!", Keep in mind it is written in Hebrew but you could definitely just look at the pictures of the website and translate it with any software.
 
 # Find a more in depth dive into the project here:
-[The written assignment of the project](https://drive.google.com/file/d/1EOxwDq07qcK_fpThR1vr7aLvak-KpHKE/view?usp=sharing)
+[The written assignment of the project (in hebrew))](https://drive.google.com/file/d/1EOxwDq07qcK_fpThR1vr7aLvak-KpHKE/view?usp=sharing)
 
