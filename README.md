@@ -11,3 +11,22 @@ For reading my code I recommend just reading the git files (The webForms: HomePa
 # Find a more in depth dive into the project here:
 [The written assignment of the project (in hebrew)](https://drive.google.com/file/d/1EOxwDq07qcK_fpThR1vr7aLvak-KpHKE/view?usp=sharing)
 
+# Here are some screenshots from the site:
+
+![](https://github.com/idogut3/End-of-the-year-project-Web-development-class/blob/main/pictures%20of%20site/site_png1.png)
+
+![](https://github.com/idogut3/End-of-the-year-project-Web-development-class/blob/main/pictures%20of%20site/site_png2.png)
+
+![](https://github.com/idogut3/End-of-the-year-project-Web-development-class/blob/main/pictures%20of%20site/site_png3.png)
+
+![](https://github.com/idogut3/End-of-the-year-project-Web-development-class/blob/main/pictures%20of%20site/site_png4.png)
+
+![](https://github.com/idogut3/End-of-the-year-project-Web-development-class/blob/main/pictures%20of%20site/site_png5.png)
+
+![](https://github.com/idogut3/End-of-the-year-project-Web-development-class/blob/main/pictures%20of%20site/site_png6.png)
+
+![](https://github.com/idogut3/End-of-the-year-project-Web-development-class/blob/main/pictures%20of%20site/site_png7.png)
+
+![](https://github.com/idogut3/End-of-the-year-project-Web-development-class/blob/main/pictures%20of%20site/site_png8.png)
+
+
