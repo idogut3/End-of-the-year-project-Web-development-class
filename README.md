@@ -11,22 +11,30 @@ For reading my code I recommend just reading the git files (The webForms: HomePa
 # Find a more in depth dive into the project here:
 [The written assignment of the project (in hebrew)](https://drive.google.com/file/d/1EOxwDq07qcK_fpThR1vr7aLvak-KpHKE/view?usp=sharing)
 
-# Here are some screenshots from the site:
+## Here are some screenshots from the site:##
 
+### HomePage ###
 ![](https://github.com/idogut3/End-of-the-year-project-Web-development-class/blob/main/pictures%20of%20site/site_png1.png)
 
+### MusicForLearning page ###
 ![](https://github.com/idogut3/End-of-the-year-project-Web-development-class/blob/main/pictures%20of%20site/site_png2.png)
 
+### TakeABreak page ###
 ![](https://github.com/idogut3/End-of-the-year-project-Web-development-class/blob/main/pictures%20of%20site/site_png3.png)
 
+### SignIn page ###
 ![](https://github.com/idogut3/End-of-the-year-project-Web-development-class/blob/main/pictures%20of%20site/site_png4.png)
 
+### SignIn page (logged in as an admin already) ###
 ![](https://github.com/idogut3/End-of-the-year-project-Web-development-class/blob/main/pictures%20of%20site/site_png5.png)
 
+### SignUp page (scrolled all the way down) ###
 ![](https://github.com/idogut3/End-of-the-year-project-Web-development-class/blob/main/pictures%20of%20site/site_png6.png)
 
+### AdminTable page (how it is shown for regular users who try to access it) ###
 ![](https://github.com/idogut3/End-of-the-year-project-Web-development-class/blob/main/pictures%20of%20site/site_png7.png)
 
+### AdminTable page (how it is shown for admins) ###
 ![](https://github.com/idogut3/End-of-the-year-project-Web-development-class/blob/main/pictures%20of%20site/site_png8.png)
 
 
