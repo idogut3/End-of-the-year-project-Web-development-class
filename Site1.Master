@@ -16,7 +16,7 @@
             <td>
                 <table>
                     <tr>
-                        <td style=" border: solid;" class="menu"><a href="HomePage.aspx">
+                        <td style=" border: solid;" class="menu"><a href="index.aspx">
                             <h3>HomePage </h3>
                         </a></td>
                         <td style=" border: solid;" class="menu"><a href="MusicForLearning.aspx">
@@ -60,3 +60,4 @@
    
 </body>
 </html>
+
